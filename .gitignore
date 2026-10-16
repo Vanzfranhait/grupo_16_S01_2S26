@@ -13,7 +13,8 @@
 *password*
 *secret*
 
-# Evidencias pesadas
+# Evidencias pesadas (excepto las que están en evidencias/)
 *.png
+!evidencias/**/*.png
 *.jpg
 *.jpeg
