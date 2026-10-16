@@ -1,0 +1,19 @@
+# Tarballs de fuentes
+*.tar.*
+*.tgz
+
+# Imágenes de disco
+*.vdi
+*.vmdk
+*.qcow2
+
+# Credenciales y datos personales
+*.key
+*.pem
+*password*
+*secret*
+
+# Evidencias pesadas
+*.png
+*.jpg
+*.jpeg
